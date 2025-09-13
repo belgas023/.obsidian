@@ -1,0 +1,164 @@
+{
+  "main": {
+    "id": "4ae8e415d21d9903",
+    "type": "split",
+    "children": [
+      {
+        "id": "5f1da7f9ab213b3e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "646e7b8c9a4dda8f",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "mods_hoi4/maloland/Sans titre-4.jpg"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "88c882d71c799276",
+    "type": "split",
+    "children": [
+      {
+        "id": "e94967501d073eef",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e5ed72c97588bd34",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b7b3c1c5c8dfd23a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "05ed81f7a0004ea1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4057a0fa7bdcb6d9",
+    "type": "split",
+    "children": [
+      {
+        "id": "009f163f0d7df7a1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a6f75321006d897f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "mods_hoi4/maloland/Sans titre-4.jpg",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "fbb293d939e74038",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "mods_hoi4/maloland/Sans titre-4.jpg",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "aeb958bf58539bf3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "165770bb3c75ce8b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "mods_hoi4/maloland/Sans titre-4.jpg"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Ouvrir le sélecteur rapide": false,
+      "graph:Ouvrir la vue graphique": false,
+      "canvas:Créer une nouvelle toile": false,
+      "daily-notes:Ouvrir la note quotidienne": false,
+      "templates:Insérer le modèle": false,
+      "command-palette:Ouvrir la palette de commandes": false
+    }
+  },
+  "active": "646e7b8c9a4dda8f",
+  "lastOpenFiles": [
+    "mods_hoi4/maloland/Gwenn_ha_Du_(11_mouchetures).svg.png",
+    "mods_hoi4/maloland/Bandera_de_Strollad_Kommunaur_Breizh.svg.png",
+    "mods_hoi4/maloland/1200px-Kroaz_Du.svg.png",
+    "mods_hoi4/maloland/186-.png",
+    "mc/skins/052d376f30ea36e8.png",
+    "mc/skins/0fe71fd6e9ca2761.png",
+    "boulo/2022-2023/art-Platique/67hU0Sgv_400x400.png",
+    "boulo/2022-2023/art-Platique/030dc01da7_50145928_netflix-logo.jpg",
+    "boulo/2022-2023/art-Platique/ménines/menines.png",
+    "boulo/2022-2023/art-Platique/ménines/beaute-du-ciel-nuages-soleil_53526-806.webp",
+    "boulo/2022-2023/anglais/war_heroes.mp3",
+    "boulo/2022-2023/anglais/stars-5.svg",
+    "bordel/bordel/Welcome.md",
+    "bordel/bordel/poesie.md"
+  ]
+}

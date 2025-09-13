@@ -1,0 +1,250 @@
+{
+  "main": {
+    "id": "c812e6b96cdc6dd2",
+    "type": "split",
+    "children": [
+      {
+        "id": "4047507f3d8d1ed4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fdf22ec9a6bebe1b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "INDEX.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "INDEX"
+            }
+          },
+          {
+            "id": "e9b988016b79fdcf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "200 - HGGSP/THEME 1/Axe 1/Jalon 1/A -.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "A -"
+            }
+          },
+          {
+            "id": "d5d42dcbda916106",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IDS.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "IDS"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8582494dd283fef2",
+    "type": "split",
+    "children": [
+      {
+        "id": "3513ca0b6de59149",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "19a662bdd7db38f7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "1f03d9d7fcbb6d08",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "1f8604da042e5d46",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 215.5
+  },
+  "right": {
+    "id": "3d60ce3fc770f1cb",
+    "type": "split",
+    "children": [
+      {
+        "id": "a6895865b9aaeef4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "105fd8807b8fcf23",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "200 - HGGSP/THEME 1/Axe 1/Jalon 1/A -.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for A -"
+            }
+          },
+          {
+            "id": "971784e5cc74ac24",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "b814fdacfb4cfbac",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "3557cb47fe1a6626",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-kanban:Create new board": false
+    }
+  },
+  "active": "e9b988016b79fdcf",
+  "lastOpenFiles": [
+    "200 - HGGSP/THEME 1/Axe 1/Jalon 1/Intro.md",
+    "2025-09-11.md",
+    "IDS.md",
+    "INDEX.md",
+    "Untitled.base",
+    "TODO.md",
+    "IMAGES/GEOPO/IDS.png",
+    "IMAGES/GEOPO/stations spatiale.png",
+    "IMAGES/GEOPO/detente espace.png",
+    "IMAGES/GEOPO/spoutnikk.png",
+    "IMAGES/GEOPO/appolo.png",
+    "IMAGES/GEOPO/spoutnik$.png",
+    "IMAGES/GEOPO/spoutnik.png",
+    "IMAGES/GEOPO/repre guerre froide espace$.png",
+    "IMAGES/GEOPO/repere guerre froide espace.png",
+    "IMAGES/GEOPO/astronaute.png",
+    "200 - HGGSP/THEME 1/Axe 1/Jalon 1/A -.md",
+    "200 - HGGSP/THEME 1/intro.md",
+    "200 - HGGSP/THEME 1/puissance spatiale.md",
+    "200 - HGGSP/THEME 1/Space Act.md",
+    "Untitled Kanban.md",
+    "200 - HGGSP/THEME 1/chronologie/chronologie de l'exploration spatiale.md",
+    "200 - HGGSP/THEME 1/Axe 1/intro.md",
+    "200 - HGGSP/THEME 1/chronologie/1957.md",
+    "Untitled.md",
+    "000 - divers/Déstinée Manifeste.md",
+    "200 - HGGSP/THEME 1/Axe 1/Jalon 1/Von Braun.md",
+    "detente.md",
+    "200 - HGGSP/THEME 1/chronologie/1969 - 1986.md",
+    "200 - HGGSP/THEME 1/Axe 1/Jalon 1",
+    "IMAGES/GEOPO",
+    "note 1.md",
+    "200 - HGGSP/THEME 1/Axe 1",
+    "200 - HGGSP/THEME 1/chronologie/1998 - 2009.md",
+    "debut aire spatiale.md",
+    "200 - HGGSP/THEME 1/chronologie/1957 - 1968.md",
+    "200 - HGGSP/THEME 1/chronologie",
+    "200 - HGGSP/THEME 1/chronologie/2009 - 2024.md",
+    "200 - HGGSP/THEME 1/chronologie/1986 - 1996.md",
+    "200 - HGGSP/THEME 1",
+    "100 - NSI/Recursivité/Recursivité - cours.md",
+    "300 - Histoire",
+    "IMAGES/NSI",
+    "IMAGES",
+    "100 - NSI/Recursivité",
+    "Untitled 1.canvas",
+    "Untitled.canvas"
+  ]
+}
