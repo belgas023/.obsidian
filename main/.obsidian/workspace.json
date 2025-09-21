@@ -8,45 +8,51 @@
         "type": "tabs",
         "children": [
           {
-            "id": "fdf22ec9a6bebe1b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "INDEX.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "INDEX"
-            }
-          },
-          {
             "id": "e9b988016b79fdcf",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "200 - HGGSP/THEME 1/Axe 1/Jalon 1/A -.md",
-                "mode": "source",
-                "source": false
+                "file": "Kanban.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
               },
-              "icon": "lucide-file",
-              "title": "A -"
+              "icon": "lucide-trello",
+              "title": "Kanban"
             }
           },
           {
-            "id": "d5d42dcbda916106",
+            "id": "db6782ef6d0f654d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IDS.md",
+                "file": "intro.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "IDS"
+              "title": "intro"
+            }
+          },
+          {
+            "id": "153d018c2ffd060e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "I - Crise de 1929 + depression.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "I - Crise de 1929 + depression"
             }
           }
         ],
@@ -194,56 +200,57 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "obsidian-kanban:Create new board": false
+      "obsidian-kanban:Create new board": false,
+      "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "e9b988016b79fdcf",
+  "active": "db6782ef6d0f654d",
   "lastOpenFiles": [
-    "200 - HGGSP/THEME 1/Axe 1/Jalon 1/Intro.md",
+    "I - Crise de 1929 + depression.md",
+    "II - crise mondialisaion de crise americaine a crise mondiale.md",
+    "III tentatives sortir de depression.md",
+    "intro.md",
+    "Kanban.md",
+    "Pasted image 20250920171035.png",
+    "roosevelt.md",
+    "Pasted image 20250920165950.png",
+    "100 - NSI/Recursivité/Exercices de cours.md",
+    "300 - Histoire/Theme 1/Chapitre 1",
+    "300 - Histoire/Theme 1",
+    "100 - NSI/Recursivité/Exemples de cours.md",
+    "000 - divers/anglais.md",
+    "200 - HGGSP/THEME 1/Axe 1/Jalon 2/A -.md",
+    "200 - HGGSP/THEME 1/Axe 1/Jalon 2/intro.md",
     "2025-09-11.md",
-    "IDS.md",
     "INDEX.md",
     "Untitled.base",
-    "TODO.md",
-    "IMAGES/GEOPO/IDS.png",
-    "IMAGES/GEOPO/stations spatiale.png",
-    "IMAGES/GEOPO/detente espace.png",
-    "IMAGES/GEOPO/spoutnikk.png",
-    "IMAGES/GEOPO/appolo.png",
-    "IMAGES/GEOPO/spoutnik$.png",
-    "IMAGES/GEOPO/spoutnik.png",
-    "IMAGES/GEOPO/repre guerre froide espace$.png",
-    "IMAGES/GEOPO/repere guerre froide espace.png",
+    "IMAGES/Pasted image 20250914141827.png",
+    "200 - HGGSP/THEME 1/IDS.md",
     "IMAGES/GEOPO/astronaute.png",
-    "200 - HGGSP/THEME 1/Axe 1/Jalon 1/A -.md",
+    "IMAGES/GEOPO/appropriation espace et ocean.png",
+    "IMAGES/GEOPO/appolo.png",
     "200 - HGGSP/THEME 1/intro.md",
-    "200 - HGGSP/THEME 1/puissance spatiale.md",
     "200 - HGGSP/THEME 1/Space Act.md",
-    "Untitled Kanban.md",
-    "200 - HGGSP/THEME 1/chronologie/chronologie de l'exploration spatiale.md",
+    "200 - HGGSP/THEME 1/puissance spatiale.md",
+    "200 - HGGSP/THEME 1/Déstinée Manifeste.md",
     "200 - HGGSP/THEME 1/Axe 1/intro.md",
+    "200 - HGGSP/THEME 1/Axe 1/Jalon 1",
+    "IMAGES/Pasted image 20250914153725.png",
+    "IMAGES/Pasted image 20250914153704.png",
+    "200 - HGGSP/THEME 1/Axe 1/Jalon 1/B -.md",
+    "200 - HGGSP/THEME 1/Axe 1/Jalon 1/A -.md",
+    "200 - HGGSP/THEME 1/Axe 1/Jalon 2",
+    "200 - HGGSP/THEME 1/Axe 1/Jalon 1/Intro.md",
+    "IMAGES/Pasted image 20250914145939.png",
+    "IMAGES/Pasted image 20250914141940.png",
+    "TODO.md",
+    "200 - HGGSP/THEME 1/chronologie/chronologie de l'exploration spatiale.md",
     "200 - HGGSP/THEME 1/chronologie/1957.md",
-    "Untitled.md",
-    "000 - divers/Déstinée Manifeste.md",
-    "200 - HGGSP/THEME 1/Axe 1/Jalon 1/Von Braun.md",
-    "detente.md",
-    "200 - HGGSP/THEME 1/chronologie/1969 - 1986.md",
     "200 - HGGSP/THEME 1/Axe 1/Jalon 1",
     "IMAGES/GEOPO",
-    "note 1.md",
     "200 - HGGSP/THEME 1/Axe 1",
-    "200 - HGGSP/THEME 1/chronologie/1998 - 2009.md",
-    "debut aire spatiale.md",
-    "200 - HGGSP/THEME 1/chronologie/1957 - 1968.md",
     "200 - HGGSP/THEME 1/chronologie",
-    "200 - HGGSP/THEME 1/chronologie/2009 - 2024.md",
-    "200 - HGGSP/THEME 1/chronologie/1986 - 1996.md",
     "200 - HGGSP/THEME 1",
-    "100 - NSI/Recursivité/Recursivité - cours.md",
-    "300 - Histoire",
-    "IMAGES/NSI",
-    "IMAGES",
-    "100 - NSI/Recursivité",
     "Untitled 1.canvas",
     "Untitled.canvas"
   ]

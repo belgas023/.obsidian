@@ -10,7 +10,7 @@ def f(a,b):
 print(f(3,5))
 ```
 
-![[Pasted image 20250906113034.png]] Arbre d'appel recucif
+![[Pasted image 20250906113034.png|100]] Arbre d'appel recucif
 Multiplie a par b.
 
 Le cas d'arret est 

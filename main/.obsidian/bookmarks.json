@@ -1,0 +1,38 @@
+{
+  "items": [
+    {
+      "type": "group",
+      "ctime": 1757855796999,
+      "items": [
+        {
+          "type": "group",
+          "ctime": 1757855796999,
+          "items": [
+            {
+              "type": "group",
+              "ctime": 1757855796999,
+              "items": [
+                {
+                  "type": "group",
+                  "ctime": 1757855796999,
+                  "items": [
+                    {
+                      "type": "file",
+                      "ctime": 1757855796999,
+                      "path": "200 - HGGSP/THEME 1/Axe 1/intro.md",
+                      "subpath": "#^-"
+                    }
+                  ],
+                  "title": "\\\\Axe 1"
+                }
+              ],
+              "title": "\\\\THEME 1"
+            }
+          ],
+          "title": "\\\\200 - HGGSP"
+        }
+      ],
+      "title": "sortspec"
+    }
+  ]
+}

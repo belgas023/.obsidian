@@ -1,5 +1,17 @@
 ## Comment s'exprime la rivalité spatiale durant la guerre froide
 ---
+
+![[repre guerre froide espace$.png|300]]
+
+## Une guerre froide dans l'espace
+- (1947-1975) Exportation des rivalités URSS / US sur le plan spatiale. Guerre hyride sur les avancées technologique, envoie de fusées et satellites
+- Budget tres elevé revoi a la baisse course a l'espace. Climat de detente voir de cooperation, dans un ut d'exploration visant l'exploitation
+- -> ex. Saliout, Mir par URSS et Skylab par US
+- retour a la guerre fraiche avec election de Reagan **1983** "America great again"
+--> retour a la competition spatiale. Projet [[IDS]] ("star wars")
+	veut assurer avancées technologique et sa suprematie geopolitique.
+	=> retour dans la course va ruiner l'URSS
+
 ![[spoutnikk.png|400]]
 ![[appolo.png|500]]
 ### Rivalité USA / URSS
@@ -38,3 +50,4 @@ Dans un cadre d'affrontement bipolaire
 --> defi a la nature:
 ideologie americaine (dominer la nature, repousser les limites)
 => [[Déstinée Manifeste]]
+
