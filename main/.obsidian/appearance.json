@@ -3,5 +3,6 @@
   "accentColor": "#a9a684",
   "nativeMenus": false,
   "textFontFamily": "JetBrainsMono Nerd Font",
-  "interfaceFontFamily": "JetBrainsMono Nerd Font"
+  "interfaceFontFamily": "JetBrainsMono Nerd Font",
+  "theme": "obsidian"
 }

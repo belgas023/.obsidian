@@ -3,7 +3,7 @@
 > Quels sont les mecanismes de la crise?
 ---
 
-soutient fort des US a l'europe(gagnate et perdente) pour reconstruction
+soutient fort des US a l'europe(gagnantes et perdente) pour reconstruction
 --> pret et emprunt constant des europeens apres la guerre
 
 ![[Pasted image 20250920171035.png|200]]

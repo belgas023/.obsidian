@@ -6,10 +6,8 @@ kanban-plugin: board
 
 ## a faire
 
+- [ ] reperes geopo
 - [ ] geopo chronologie
-- [ ] geopo questions @{2025-09-15}
-- [ ] nsi @{2025-09-19}
-- [ ] lire anthorpocene @{2025-09-18}
 - [ ] lire HHhH @{2025-09-18}
 
 
@@ -17,17 +15,23 @@ kanban-plugin: board
 
 - [ ] histoire cours
 - [ ] geopo repere
-- [ ] video anglais
 
 
 ## fini
 
+
+
+***
+
+## Archive
+
 - [ ] video histoire front populaire
+- [ ] video anglais
+- [ ] nsi @{2025-09-19}
 - [ ] geopo cours ajd
+- [ ] lire anthorpocene @{2025-09-18}
+- [ ] geopo questions @{2025-09-15}
 - [ ] geopo cours
-
-
-
 
 %% kanban:settings
 ```
