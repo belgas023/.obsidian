@@ -33,19 +33,21 @@ projet "star wars"(IDS) americain -> interceprion tetes nucleaire
 
 
 ### synthese
-Dés 1045 les sovietique et americinas se livreent a une chasse pour recuperer scientifique nazi et technologies de V.1 et v.2 (ex. [[Von Braun]]).
+Dés 1945 les sovietique et americinas se livreent a une chasse pour recuperer scientifique nazi et technologies de V.1 et v.2 (ex. [[Von Braun]]).
 
 Course a l'eapce pour assurer la suprematie technologique et stratgique. Mais aussi demontrer la primauté / superitorité de son systeme politique(politique de prestige). 
 -> **confrontation idéologique**
 
 Sovietiques en avance avec le premier satellite artificielle [[1957|Spoutnik]], le prmier cosmonaute [[chronologie de l'exploration spatiale|Youri Gagarine]] en 1961.
 Le premier astronaute [[1969 - 1986|Armstrong]] avec appolo 11.
+**-> confrontation technologique**
 
 Competition instense, qui denote avec un cooperation dans les [[1969 - 1986|années 60]]. Puis de [[chronologie de l'exploration spatiale|nouvelle tensions]](ex. programme IDS).
 URSS ne peuvent plus continuer(trop cher).
 Mais course a l'esapce continue a etre un mirroire des avancés technologique.
 
 Course a l'espace engagé dans une course a l'armement objectif d'atteindre territoire adverse -> rendre vulnerale.
+--> course a l'espace into course a l'armement
 
 Dans un cadre d'affrontement bipolaire
 --> defi a la nature:
