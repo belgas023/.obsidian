@@ -32,6 +32,7 @@ stations spatiale ex. Saliout / SkyLab
 projet "star wars"(IDS) americain -> interceprion tetes nucleaire
 
 
+### synthese
 Dés 1045 les sovietique et americinas se livreent a une chasse pour recuperer scientifique nazi et technologies de V.1 et v.2 (ex. [[Von Braun]]).
 
 Course a l'eapce pour assurer la suprematie technologique et stratgique. Mais aussi demontrer la primauté / superitorité de son systeme politique(politique de prestige). 
