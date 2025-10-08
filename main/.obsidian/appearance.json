@@ -4,5 +4,9 @@
   "nativeMenus": false,
   "textFontFamily": "JetBrainsMono Nerd Font",
   "interfaceFontFamily": "JetBrainsMono Nerd Font",
-  "theme": "obsidian"
+  "theme": "obsidian",
+  "baseFontSizeAction": true,
+  "enabledCssSnippets": [
+    "fonts"
+  ]
 }

@@ -1,7 +1,9 @@
 ## Pourquoi rechercher la maitrise des mers?
 
 ![[Pasted image 20250914153704.png|300]]
-repere
+- la mer outil de puissance. Que ce soit pour thalassocratie antiques ex. athenes, empire romain, Royal Navy. Ou pour flotte americaine depuis 20e
+- mers source de richesse/ressources. Ressources halieutique, mineraux, ressoucrs energetique. Routes axes commerciaux importants pour mondialistaion. Pays enclavés desaventagés.
+- mer sourcede puissance et de rivalités. Espace de projection, pour utiliser arsenal navale. Permet agir sur monde entier(force projection): port avion, SNLE --> secursiation et dissuasions
 
 
 ![[Pasted image 20250914153725.png|400]]

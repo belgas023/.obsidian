@@ -2,7 +2,7 @@
 
 > "Qui tient la mer, tient le commerce, qui tient le commerce tient la richesse, qui tient la richesse, tient le monde lui meme."
 
-![[Pasted image 20250922142942.png|400]]
+![[Pasted image 20251002183820.png|300]]
 - appropriation(ex. mer chine meridionale)
 - projection
 - dissuasion

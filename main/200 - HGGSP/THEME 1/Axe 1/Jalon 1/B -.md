@@ -2,8 +2,9 @@
 ---
 ![[Pasted image 20250914141827.png|300]]
 
-reperes
-
+- europenns puissances spatiale. CDG veux France comme puissance spatiale (programme francais asterix), -> CNES ex. fusée diamant(1965). Cooperation eurpoenne pour ESA(European SApce Agency) -> programme Ariane, Galileo
+- Pays emergent come puissance spatiale. Puissances emergentes ex. Chine, Israel, Inde. Programme spatiale pour s'affirmer en tant que puissance technologique(rayonnnement) -> regain interte pour la lune
+- Acteurs privés puissance spatiale. Arrivée des acteurs privés avec autres priorités et d nouvelles technologies. ex. Elon Musk SpaceX -> colonisation, Richard Bransson Virgin Galactica -> touristique
 
 ![[Pasted image 20250914141940.png|300]]
 ### Spationautes francais:
