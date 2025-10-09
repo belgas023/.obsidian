@@ -37,3 +37,15 @@
 
 [[200 - HGGSP/THEME 1/Axe 2/Jalon 2/A -|A - Exploiter les mers et les oceans, entre rivalités et partage]]
 
+---
+# Etude conclusive - La Chine: a la conquete de l'espace, des mers et des oceans.
+
+[[200 - HGGSP/THEME 1/Etude Ccl/intro|intro]]
+
+## Jalon 1 - Une volontée d'affirmation de la puissance chinoise
+
+[[200 - HGGSP/THEME 1/Etude Ccl/A -|A - Comment la Chine tente -elle de s'affirmer sur les mers et les oceans ?]]
+
+
+
+

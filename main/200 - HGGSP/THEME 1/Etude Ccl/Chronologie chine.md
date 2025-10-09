@@ -62,3 +62,55 @@ quand japonais s'en vont
 => victoire PCC (Mao)
 
 **1949** Proclamation Republique Populaire de Chine par Mao sur la place Tianamen
+> projet 2049: 100 ans de procalmation, objectif de 1er puissance mondiale
+
+=> revendications marines de larmée populaire de liberation
+
+**Mao Zedong** (1949-1976)
+(chine de Mao)
+
+**1971** RPC devient 5eme membre permanent a L'onu
+rep. de chine pers sa place
+
+**1976** mort de mao
+-> **1978** Ouverture marché par **Deng Xiaoping**
+met fin a l'histoire contineantale seculaire e la chine
+=> plan des 4 modernisations
+(alors que poche de famin encore importante)
+hausse de niveau de vie, creations classe moyenne
+->ouverture sur la mondialisation
+___
+chine menne politique d'ouverture (90s)
+1993-2003 "economie socialiste des marhcés"
+1998 porte avions acheté a l'ukraine
+1993 creation agence spatiale chinoise
+
+**2000s** -> resultats de periode d'emergence:
+
+2003 1er taikonaute
+2010 2eme puissance mondiale
+2011 1er porte avions chinois
+
+## livre blanc chinois
+definis les termes,expose au moinde ses objectifs, u messae au monde
+presente un narratif:
+preserver la paix
+et recuprere sa puissance passé en tant que empire du milieux
+___
+### territorialisation / militarisation
+des mers asiatique
+-> gros investissements
+force de projection pour affirmer puissance (porte avions)
+- protection (te securisation) des nouvelles routes de la soie (routes maritimes)
+- defense des ZEE
+### politique de projection ambitieuse extra astmospherique
+-> enjeu de:
+- puissance
+- prestige
+- affirmation
+- protection (constellation de satellite)
+mise ne orbite d'une station spatiale
+objectif scientifique mais aussi militaire
+
+### rivalités
+politique 9 traits// langue de boeuf
